@@ -1,1 +1,1 @@
-# legal
+# EchoMindAI
